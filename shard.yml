@@ -11,6 +11,7 @@ dependencies:
     branch: master
   msgpack:
     github: benoist/msgpack-crystal
+    version: ~> 0.8.0
 
 description: |
   A Collection of Classes to define Lexers, Parsers & Abstract Syntax Trees. A port of the Ruby Language Toolking written by Chris Wailes
